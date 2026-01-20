@@ -4,6 +4,7 @@
 #xhofe/alist:latest
 #n8nio/n8n:latest
 blinkospace/blinko
+postgres:14
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
