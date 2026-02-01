@@ -6,7 +6,8 @@
 #blinkospace/blinko
 #postgres:14
 neosmemo/memos:stable
-mysql:latest
+#mysql:latest
+itzg/minecraft-server:java8
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
